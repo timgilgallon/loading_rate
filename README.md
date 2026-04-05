@@ -27,7 +27,7 @@ install.packages(c("ggplot2", "dplyr", "openxlsx"))
 ```r
 input_dir <- "data/"
 output_dir <- "output/"
-subject_id <- "subject_01"
+subject_id <- "sample"
 body_mass_kg <- 70
 landing_leg <- "R"  # "R" or "L"
 ```
