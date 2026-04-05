@@ -53,7 +53,7 @@ Results are saved to the `output/` folder:
 
 ## Example Output
 
-![Example vGRF Plot](output/subject_01_R_sll_vGRF_plot.png)
+![Example vGRF Plot](output/sample_L_sll_vGRF_plot.png)
 
 ## Metrics
 
